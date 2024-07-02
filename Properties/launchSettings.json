@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ScheduledCounter": {
+      "commandName": "Project",
+      "commandLineArgs": "view --delay 43"
+    }
+  }
+}
