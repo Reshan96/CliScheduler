@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rSSulRzcy/k=",
+  "success": true,
+  "projectFilePath": "D:\\My\\Private projects\\ScheduledCounter\\ScheduledCounter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reshan.d\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
