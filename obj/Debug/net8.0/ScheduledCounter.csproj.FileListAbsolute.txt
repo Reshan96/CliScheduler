@@ -77,3 +77,4 @@ D:\My\Private projects\ScheduledCounter\build-output\ru\System.CommandLine.resou
 D:\My\Private projects\ScheduledCounter\build-output\tr\System.CommandLine.resources.dll
 D:\My\Private projects\ScheduledCounter\build-output\zh-Hans\System.CommandLine.resources.dll
 D:\My\Private projects\ScheduledCounter\build-output\zh-Hant\System.CommandLine.resources.dll
+D:\My\Private projects\ScheduledCounter\obj\Debug\net8.0\ScheduledCounter.sourcelink.json
